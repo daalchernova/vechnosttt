@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'MorfinSans';
+    src: url('MorfinSans-Regular.eot');
+    src: url('MorfinSans-Regular.eot?#iefix') format('embedded-opentype'),
+        url('MorfinSans-Regular.woff2') format('woff2'),
+        url('MorfinSans-Regular.woff') format('woff'),
+        url('MorfinSans-Regular.ttf') format('truetype'),
+        url('MorfinSans-Regular.svg#MorfinSans-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

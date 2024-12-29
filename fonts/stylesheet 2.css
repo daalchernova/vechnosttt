@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Univia Pro';
+    src: url('UniviaPro-Regular.eot');
+    src: url('UniviaPro-Regular.eot?#iefix') format('embedded-opentype'),
+        url('UniviaPro-Regular.woff2') format('woff2'),
+        url('UniviaPro-Regular.woff') format('woff'),
+        url('UniviaPro-Regular.ttf') format('truetype'),
+        url('UniviaPro-Regular.svg#UniviaPro-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Theater';
+    src: url('Theater-Bold.eot');
+    src: url('Theater-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Theater-Bold.woff2') format('woff2'),
+        url('Theater-Bold.woff') format('woff'),
+        url('Theater-Bold.ttf') format('truetype'),
+        url('Theater-Bold.svg#Theater-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
